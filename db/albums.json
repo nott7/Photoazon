@@ -1,0 +1,46 @@
+{
+  "1": {
+    "name": "ciao",
+    "hashtags": [
+      "#test",
+      "#ciao"
+    ],
+    "creationDate": "2023-06-16T12:02:38.707Z",
+    "modificationDate": "2023-06-16T13:17:02.189Z",
+    "userId": "nott",
+    "photos": {
+      "1": {
+        "name": "chebellafoto.jpg",
+        "hashtags": [
+          "#prova",
+          "#sdsda"
+        ],
+        "creationDate": "2023-06-16T12:08:02.859Z",
+        "modificationDate": "2023-06-16T12:08:02.859Z"
+      }
+    },
+    "cancelled": true
+  },
+  "2": {
+    "name": "Album Vacanze",
+    "hashtags": [
+      "#incredibile",
+      "#epico"
+    ],
+    "creationDate": "2023-06-16T12:11:07.257Z",
+    "modificationDate": "2023-06-16T12:11:07.257Z",
+    "userId": "giovanni_verdi",
+    "photos": {
+      "1": {
+        "name": "chebruttafoto.png",
+        "hashtags": [
+          "prova",
+          "bellisima"
+        ],
+        "creationDate": "2023-06-16T13:19:38.076Z",
+        "modificationDate": "2023-06-16T13:22:24.460Z",
+        "cancelled": true
+      }
+    }
+  }
+}
